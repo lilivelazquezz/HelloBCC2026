@@ -3,3 +3,7 @@ h1 {
     color: red;
     font-size: larger;
 }
+
+body {
+  background-color: #fefbd8; /* Example using a HEX value */
+}
